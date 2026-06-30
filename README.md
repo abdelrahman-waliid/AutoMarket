@@ -3,7 +3,7 @@
 ### AI-Powered Full Stack Car Marketplace
 
 <p align="center">
-  <img src="screenshots/Banner.png" alt="AutoMarket Banner" width="100%">
+  <img src="screenshots/banner.png" alt="AutoMarket Banner" width="100%">
 </p>
 
 ---
