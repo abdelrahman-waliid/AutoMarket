@@ -1,0 +1,59 @@
+# .NET build outputs
+**/bin/
+**/obj/
+**/TestResults/
+**/artifacts/
+**/publish/
+
+# Visual Studio / IDE
+.vs/
+**/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/
+
+# Node / frontend artifacts
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.Local.json
+**/appsettings.local.json
+**/appsettings.*.local.json
+
+# Local databases and caches
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives / backups
+*.zip
+*.rar
+*.7z
+*.bak
+
+# Python / ML service artifacts
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+*.pkl
